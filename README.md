@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Fathimath Anshifa Sherin
-- 👀 I’m interested in Coding, but only a little bit.
-- 🌱 I’m currently learning Bachelor of Technology in Computer Science and Engineering.
+- 🌱 I’m currently pursuing Bachelor of Technology in Computer Science and Engineering with honours.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
